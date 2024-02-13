@@ -46,6 +46,6 @@ Comvar and take requisites Variables as per specs.
 ## Output
 - [Dataset](https://github.com/princeadeyemoboy/.QC-of-SDTM-Datasets-Development-Demography-/blob/main/dm.sas7bdat)
 - [Program](https://github.com/princeadeyemoboy/.QC-of-SDTM-Datasets-Development-Demography-/blob/main/DM.sas)
-- [Validate](https://github.com/theadewole/Disposition_Dataset_Validation/blob/main/Validate)
+- [Validate](https://docs.google.com/document/d/1VlU3whDnPubmmIOOB9idi_4mQR3lbU77/edit)
 - [Log](https://github.com/princeadeyemoboy/.QC-of-SDTM-Datasets-Development-Demography-/blob/main/dm.log)
 - [Initial](https://github.com/princeadeyemoboy/.QC-of-SDTM-Datasets-Development-Demography-/blob/main/initial%20.sas)
