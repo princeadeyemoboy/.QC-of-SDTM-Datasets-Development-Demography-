@@ -47,5 +47,5 @@ Comvar and take requisites Variables as per specs.
 - [Dataset](https://github.com/theadewole/Disposition_Dataset_Validation/blob/main/ds.sas7bdat)
 - [Program](https://github.com/princeadeyemoboy/.QC-of-SDTM-Datasets-Development-Demography-/blob/main/DM.sas)
 - [Validate](https://github.com/theadewole/Disposition_Dataset_Validation/blob/main/Validate)
-- [Log]()
+- [Log](https://github.com/princeadeyemoboy/.QC-of-SDTM-Datasets-Development-Demography-/blob/main/dm.log)
 - [Initial]()
